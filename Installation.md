@@ -1,3 +1,4 @@
+![Spoolman](https://github.com/Eloura74/SpoolMan.md/blob/main/principale.png)
 # Suivi de l'inventaire des bobines de filament 3D avec Spoolman
 
 Spoolman est un service web qui vous aide à suivre vos bobines de filament et leur utilisation.
