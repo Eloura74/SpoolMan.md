@@ -50,5 +50,5 @@ Cela va créer un dossier "Spoolman-version".
 
 5. Suivez les instructions à l'écran pour installer toutes les dépendances et configurer Spoolman.Il vous sera demandé de taper "y" pour accepter de le lancer à chaque redémarrage.
 
-6. Ensuite nous allons intégrer ceci dans Moonraker.
+6. Ensuite nous allons intégrer ceci dans [Moonraker](https://github.com/Eloura74/SpoolMan.md/blob/main/Moonraker.md).
 
