@@ -7,3 +7,4 @@ La mise à jour de Spoolman est assez simple. Si vous utilisez le type de base d
    ```
    bash systemctl --user stop Spoolman && systemctl --user disable Spoolman
    ```
+2. Vous avez simplement à repéter les étapes de l'installation.
