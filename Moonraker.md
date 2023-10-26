@@ -48,6 +48,10 @@ Vous pouvez maintenant accéder à l'interface de Spoolman en allant a l'adresse
       http://adresse_klipper:7912
       ```
 
+![Filament](https://github.com/Eloura74/SpoolMan.md/blob/main/filament.png)
+![Bobine](https://github.com/Eloura74/SpoolMan.md/blob/main/general-.png)
+
+
 Configurez par la suite vos bobine et filaments avec différentes informations.
 
 Pensez à redémarrer Klipper et Moonraker.
